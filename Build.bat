@@ -1,1 +1,1 @@
-echo "Build the project : %date% : %time% ";
+echo "Build the project : %date% : %time% "
